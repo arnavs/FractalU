@@ -46,48 +46,15 @@ After the class is over, anyone who wants to can remove their material or interi
 
 Exact topics and order subject to change.
 
-| Class | Topic | "Standard Model" | Alternatives
+| Class | Topic | Details and "Standard Model" | Alternatives
 | -------- | ------- | ------- | ------- | 
-| Week 1 | Setup and tooling (GitHub/Git, Julia, VSCode). Math refresher. | N/A | N/A 
-| Week 2 | $80 |
-| Week 3 | $420 |
-| Week 4 | $420 |
-| Week 5 | $420 |
-| Week 6 | $420 |
-| Week 7 | $420 |
+| Week 1 | Setup and tooling (GitHub/Git, Julia, VSCode). Math refresher (probability/expectations and maximization). | N/A | Sparse max. 
+| Week 2 | Bayes, Nash, and beyond | Bayesian rationality and implications. Writing a game formally and defining Nash equilibrium. | Cognitive distortions and "flaws" in updating. Trembles and "near-Nash" behavior.
+| Week 3 | Consumption and savings | The Neoclassical growth model. | Introducing info constraints, addictive goods, etc. 
+| Week 4 | Herds and following the crowd | Social learning with perfect recall and Bayesian agents. | Versions with bounded memory, deviant agents (overconfident, conformist, malicious), etc. 
+| Week 5 | Optimal stopping | McCall search. | 
+| Week 6 | Persuasion, communication, and lying | Defining lying mathematically. Bayesian persuasion and cheap talk. | 
+| Week 7 | Special topics (TBD, based on class preferences.) | Racial discrimination. International development and growth. | 
 
-<!-- 
-  * Week 1: Setup and Tooling
-    - GitHub and Git
-    - The Julia language 
-    - VSCode
-    - Math refresher
-        * Probability and expectations
-        * Maximization
-  * Week 2: Bayes, Nash, and Beyond 
-    - What's a game? What's an equilibrium?
-    - What is Bayesian rationality, and what are its implications? 
-        * The agreement theorem
-        * Convergence to Nash
-    - What are the alternatives? 
-        * Cognitive distortions (correlation neglect, overconfidence, etc.)
-        * "Wanting to believe"
-  * Week 3: Consumption and Savings
-    - How should a "standard" econ agent choose how much to save in an uncertain world?
-    - How should a bounded agent (info constraints, addiction, etc.) do it?
-  * Week 4: Herds and the Crowd
-    - How should a Bayesian agent learn from actions of past agents? 
-    - How do biased agents (overconfident, conformist, malicious, etc.) change outcomes?
-  * Week 5: Optimal Stopping
-    - How should a homo economicus decide when to accept a job (or spouse, etc.)?
-    - How should an actual person do so?
-  * Week 6: Persuasion, Communication, and Lying
-    - What is a mathematical definition of deception? 
-    - How do Bayes-rational agents decide how much to lie? (Bayesian persuasion, cheap talk)
-    - How does this change under communication/info constraints? 
-  * Week 7: Special Topics
-    - Racial discrimination
-    - International development and growth 
-    - **TBD: based on class interest** -->
 
 [^1]: A bit on [what this means](https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/), and an [example](https://github.com/QuantEcon/notebook-gallery/blob/main/ipynb/john_stachurski-coase.ipynb).

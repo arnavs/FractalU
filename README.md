@@ -50,7 +50,7 @@ Exact topics and order subject to change.
 | Class | Topic | Details and "Standard Model" | Alternatives
 | -------- | ------- | ------- | ------- | 
 | Week 1 (1.20.26) | Setup and tooling. Intro to Julia language. Math refresher. | N/A | Sparse max. 
-| Week 2 (1.27.26) | Bayes, Nash, and beyond | Bayesian rationality and implications. Writing a game formally and defining Nash equilibrium. | Cognitive distortions and "flaws" in updating. Trembles and "near-Nash" behavior.
+| Week 2 (1.27.26) | Bayes, Nash, and beyond | Defining rationality and implications of Bayesian rationality. Writing a game formally and defining Nash equilibrium. | Cognitive distortions and "flaws" in updating. Trembles and "near-Nash" behavior.
 | Week 3 (2.3.26) | Consumption and savings | The Neoclassical growth model. | Introducing info constraints, addictive goods, etc. 
 | Week 4 (2.10.26)| Herds and learning from the crowd | Social learning with perfect recall and Bayesian agents. | Versions with bounded memory, deviant agents (overconfident, conformist, malicious), etc. 
 | Week 5 **(2.24.26)** | Optimal stopping | [McCall search model](https://julia.quantecon.org/dynamic_programming/mccall_model.html). | Recency bias and imperfect recall. 

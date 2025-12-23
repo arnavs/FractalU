@@ -14,7 +14,7 @@ tl/dr
 Over 7 weeks, we're going to use modern machinery (math and code) to explore behavioral economics. By the end, you'll have written a small interactive paper[^1] where you apply these tools to a problem you're interested in. 
 
 "Economics" means that people are trying to maximize something, subject to some constraint. It may sound rigid (and we'll explore the limits), but this framework is already very permissive. People could be deciding: 
-  * Whether or not to accept a job, or wait for a better offer tomorrow. 
+  * Whether or not to accept a job (or spouse), or wait for a better one tomorrow. 
   * How much lying they can get away with before reputation effects kick in and punish them. 
   * If it's best to follow the crowd, or act on their own beliefs. 
 

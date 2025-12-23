@@ -32,7 +32,7 @@ You should be willing to learn and work hard. The course is fast-paced, and you'
 
 ### Class Format 
 
-Each class will be 1.5 hours of new material, followed by at least 0.5 hours of coworking and "office hours." (There's no hard stop after 0.5 hours.)
+Each class will be 1.5 hours of new material, followed by at least 0.5 hours of coworking and "office hours." (There's no hard stop after 0.5 hours.) We'll usually present the "standard model" of the topic first, and then the version with more realistic behavior. 
 
 Office hours are a good time to get help from me (and other students) on your individual projects. 
 
@@ -59,18 +59,20 @@ Exact topics and order subject to change.
         * The agreement theorem
         * Convergence to Nash
     - Alternatives
+        * Cognitive distortions (correlation neglect, overconfidence, etc.)
+        * "Wanting to believe"
   * Week 3: Consumption and Savings
     - The "standard" Neoclassical model 
-    - A version with information constraints
-    - A version with addiction 
+    - Alternatives (info constraints, addiction, etc.)
   * Week 4: Herds and the Crowd
-    - Social learning 
-    - DeGroot learnn
   * Week 5: 
   * Week 6: Persuasion, Communication, and Lying
     - Defining deception
     - Bayesian persuasion
     - Cheap talk 
-  * Week 7: 
+  * Week 7: Special Topics
+    - Job search
+    - Racial discrimination
+    - 
 
 [^1]: A bit on [what this means](https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/), and an [example](https://github.com/QuantEcon/notebook-gallery/blob/main/ipynb/john_stachurski-coase.ipynb).

@@ -32,7 +32,7 @@ You should be willing to learn and work hard. The course is fast-paced, and you'
 
 ### Class Format 
 
-Each class will be 1.5 hours of new material, followed by at least 0.5 hours of coworking and "office hours." (There's no hard stop after 0.5 hours.) We'll usually present the "standard model" of the topic first, and then the version with more realistic behavior. 
+Each class will be 1.5 hours of new material, followed by at least 0.5 hours of coworking and "office hours." (There's no hard stop after 0.5 hours.) We'll usually present the "standard model" of the topic first, and then the version with more realistic/complex behavior. 
 
 Office hours are a good time to get help from me (and other students) on your individual projects. 
 
@@ -52,7 +52,7 @@ Exact topics and order subject to change.
 | Week 2 | Bayes, Nash, and beyond | Bayesian rationality and implications. Writing a game formally and defining Nash equilibrium. | Cognitive distortions and "flaws" in updating. Trembles and "near-Nash" behavior.
 | Week 3 | Consumption and savings | The Neoclassical growth model. | Introducing info constraints, addictive goods, etc. 
 | Week 4 | Herds and learning from the crowd | Social learning with perfect recall and Bayesian agents. | Versions with bounded memory, deviant agents (overconfident, conformist, malicious), etc. 
-| Week 5 | Optimal stopping | McCall search. The | 
+| Week 5 | Optimal stopping | McCall search. | 
 | Week 6 | Persuasion, communication, and lying | Defining lying mathematically. Bayesian persuasion and cheap talk. | My own research ("frequentist persuasion.'') Hard limits on info processing and precision of communication. 
 | Week 7 | Special topics (TBD, based on class preferences.) | Racial discrimination. International development and growth. | 
 

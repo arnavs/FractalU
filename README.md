@@ -54,25 +54,29 @@ Exact topics and order subject to change.
         * Probability and expectations
         * Maximization
   * Week 2: Bayes, Nash, and Beyond 
-    - What's a game? What's an equilibrium? 
-    - Bayes' Law and its implications
+    - What's a game? What's an equilibrium?
+    - What is Bayesian rationality, and what are its implications? 
         * The agreement theorem
         * Convergence to Nash
-    - Alternatives
+    - What are the alternatives? 
         * Cognitive distortions (correlation neglect, overconfidence, etc.)
         * "Wanting to believe"
   * Week 3: Consumption and Savings
-    - The "standard" Neoclassical model 
-    - Alternatives (info constraints, addiction, etc.)
+    - How should a "standard" econ agent choose how much to save in an uncertain world?
+    - How should a bounded agent (info constraints, addiction, etc.) do it?
   * Week 4: Herds and the Crowd
-  * Week 5: 
+    - How should a Bayesian agent learn from actions of past agents? 
+    - How do biased agents (overconfident, conformist, malicious, etc.) change outcomes
+  * Week 5: Optimal Stopping
+    - How should a homo economicus decide when to accept a job (or spouse, etc.)?
+    - How should an actual person do so?
   * Week 6: Persuasion, Communication, and Lying
-    - Defining deception
-    - Bayesian persuasion
-    - Cheap talk 
+    - What is a mathematical definition of deception? 
+    - How do Bayes-rational agents decide how much to lie? (Bayesian persuasion, cheap talk)
+    - How does this change under communication/info constraints? 
   * Week 7: Special Topics
-    - Job search
     - Racial discrimination
-    - 
+    - International development and growth 
+    - **TBD: based on class interest**
 
 [^1]: A bit on [what this means](https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/), and an [example](https://github.com/QuantEcon/notebook-gallery/blob/main/ipynb/john_stachurski-coase.ipynb).

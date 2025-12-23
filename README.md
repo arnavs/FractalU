@@ -8,7 +8,7 @@ tl/dr
   - **Time**: Tuesdays 7-9PM. 
   - **Duration**: 7 weeks, from 1.20.26 to 3.10.26 (skipping 2.17.26)
   - **Location**: Lower Manhattan (in-person only)
-  - **Cost**: $120 (scholarship), $210 (standard), $300 (supporter). Send me an [email](mailto:arnavs@alumni.cmu.edu) (`arnavs@alumni.cmu.edu`) if none of these work.
+  - **Cost**: $120 (scholarship), $210 (standard), $300 (supporter). Send me an email (at `arnavs@alumni.cmu.edu`) if none of these work.
 
 ### Summary 
 

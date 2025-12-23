@@ -56,15 +56,21 @@ Exact topics and order subject to change.
   * Week 2: Bayes, Nash, and Beyond 
     - What's a game? What's an equilibrium? 
     - Bayes' Law and its implications
-        * Aumann's Agreement Theorem
+        * The agreement theorem
         * Convergence to Nash
     - Alternatives
-        * Cognitive distortions (correlation neglect, overconfidence, etc.)
-        * ``Wanting to believe''
-  * Week 3: 
-  * Week 4: Persuasion, Communication, and Lying
+  * Week 3: Consumption and Savings
+    - The "standard" Neoclassical model 
+    - A version with information constraints
+    - A version with addiction 
+  * Week 4: Herds and the Crowd
+    - Social learning 
+    - DeGroot learnn
   * Week 5: 
-  * Week 6: 
+  * Week 6: Persuasion, Communication, and Lying
+    - Defining deception
+    - Bayesian persuasion
+    - Cheap talk 
   * Week 7: 
 
 [^1]: A bit on [what this means](https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/), and an [example](https://github.com/QuantEcon/notebook-gallery/blob/main/ipynb/john_stachurski-coase.ipynb).

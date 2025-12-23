@@ -45,7 +45,7 @@ After the class is over, anyone who wants to can remove their material or interi
 
 ### Syllabus 
 
-Exact topics and order subject to change.
+Exact topics and order subject to change. **Don't worry if stuff in links seems too advanced**; it's just a reference.
 
 | Class | Topic | Details and "Standard Model" | Alternatives
 | -------- | ------- | ------- | ------- | 

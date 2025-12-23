@@ -1,6 +1,6 @@
 # FractalU: Computational and Behavioral Economics
 
-[I'm](https://arnavsood.com) teaching a class on _computational, behavioral economics_. Details are below; signup link is [here]()
+I'm teaching a class on _computational, behavioral economics_. Details are below; signup link is [here]()
 
 tl/dr
   - **Class**: Learn behavioral economics using math and code. Model and code up an economic/social situation you're interested in. 

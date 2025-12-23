@@ -1,10 +1,9 @@
 # FractalU: Computational and Behavioral Economics
 
-
 I'm teaching a class on _computational, behavioral economics_. Details are below; signup link is [here]()
 
 tl/dr
-  - **Class**: Learn behavioral economics using math and code. Model and implement an economic/social situation you're interested in. 
+  - **Class**: Learn behavioral economics using math and code. Model and code up an economic/social situation you're interested in. 
   - **Time**: Tuesdays 7-9PM. 
   - **Duration**: 7 weeks, from 1.20.26 to 3.3.26 (skipping 2.17.26)
   - **Location**: Lower Manhattan (in-person only)
@@ -19,7 +18,7 @@ Over 7 weeks, we're going to use modern machinery (math and code) to explore beh
   * How much lying they can get away with before reputation effects kick in and punish them. 
   * If it's best to follow the crowd, or act on their own beliefs. 
 
-"Behavioral" means that people are not the [precisely rational creatures](https://en.wikipedia.org/wiki/Homo_economicus) required by neoclassical theory. They might [make mistakes](https://en.wikipedia.org/wiki/Trembling_hand_perfect_equilibrium) when carrying out their plans. They might not be perfect Bayesians (we'll discuss what that means), or they might face computational limits on the amount of information they can process. 
+"Behavioral" means that people are not the [precisely rational creatures](https://en.wikipedia.org/wiki/Homo_economicus) required by neoclassical theory. They might [make mistakes](https://en.wikipedia.org/wiki/Trembling_hand_perfect_equilibrium) when carrying out their plans. They might not be perfect Bayesians (we'll discuss what that means), or they might face hard limits on the amount of information they can process. 
 
 An increasingly large part of modern economics is realizing that these "behavioral frictions" aren't just small annoyances that we can model away. In many cases they lead to startlingly different behavior. 
 
@@ -27,17 +26,21 @@ But we can't see clearly what that behavior is by sticking to the "literary" eco
 
 ### Requirements
 
+You should have some basic familiarity with coding. Experience with math/stats and git/commandline is a plus, but not a requirement. **No prior economics experience is required**. 
+
+You should be willing to learn and work hard. The course is fast-paced, and you'll get out what you put in. 
+
 ### Class Format 
 
-Each class will be 1.5 hours of new material, followed by at least 0.5 hours of coworking and ``office hours.'' (There's no hard stop after 0.5 hours.)
+Each class will be 1.5 hours of new material, followed by at least 0.5 hours of coworking and "office hours." (There's no hard stop after 0.5 hours.)
 
 Office hours are a good time to get help from me (and other students) on your individual projects. 
 
 There will be homework, but no grades. 
 
-Once everyone is registered, I'll make a GitHub repo for the class. The GitHub will be our main digital space/sandbox. 
+Once everyone is registered, I'll add you all to this repo and make it private. The GitHub will be our main digital space/sandbox. 
 
-After the class is over, anyone who wants to can remove their material or interim products, and I'll turn it public. 
+After the class is over, anyone who wants to can remove their material or interim products, and I'll make it public again. 
 
 ### Syllabus 
 
@@ -45,11 +48,21 @@ Exact topics and order subject to change.
 
   * Week 1: Setup and Tooling
     - GitHub and Git
-    - The Julia Language 
+    - The Julia language 
     - VSCode
-  * Week 2: 
+    - Math refresher
+        * Probability and expectations
+        * Maximization
+  * Week 2: Bayes, Nash, and Beyond 
+    - What's a game? What's an equilibrium? 
+    - Bayes' Law and its implications
+        * Aumann's Agreement Theorem
+        * Convergence to Nash
+    - Alternatives
+        * Cognitive distortions (correlation neglect, overconfidence, etc.)
+        * ``Wanting to believe''
   * Week 3: 
-  * Week 4: 
+  * Week 4: Persuasion, Communication, and Lying
   * Week 5: 
   * Week 6: 
   * Week 7: 

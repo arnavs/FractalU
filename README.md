@@ -1,12 +1,5 @@
-# FractalU
-Computational and Behavioral Economics
+# FractalU: Computational and Behavioral Economics
 
-+++
-date = 2025-12-21T20:23:47-05:00
-title = "Computational + Behavioral Economics"
-[blackfriday]
-  extensions = ["hardLineBreak"]
-+++
 
 I'm teaching a class on _computational, behavioral economics_. Details are below; signup link is [here]()
 

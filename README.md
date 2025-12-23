@@ -53,7 +53,7 @@ Exact topics and order subject to change.
 | Week 3 | Consumption and savings | The Neoclassical growth model. | Introducing info constraints, addictive goods, etc. 
 | Week 4 | Herds and learning from the crowd | Social learning with perfect recall and Bayesian agents. | Versions with bounded memory, deviant agents (overconfident, conformist, malicious), etc. 
 | Week 5 | Optimal stopping | McCall search. | Recency bias and imperfect recall. 
-| Week 6 | Persuasion, communication, and lying | Defining lying mathematically. Bayesian persuasion and cheap talk. | My own research ("frequentist persuasion.'') Hard limits on info processing and precision of communication. 
+| Week 6 | Persuasion, communication, and lying | Defining lying mathematically. Bayesian persuasion and cheap talk. | **My own research ("frequentist persuasion.'')** Hard limits on info processing and precision of communication. 
 | Week 7 | Special topics (TBD, based on class preferences.) | Racial discrimination. International development and growth. | 
 
 

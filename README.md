@@ -5,7 +5,7 @@ I'm teaching a class on _computational, behavioral economics_. Details are below
 tl/dr
   - **Class**: Learn behavioral economics using math and code. Model and code up an economic/social situation you're interested in. 
   - **Time**: Tuesdays 7-9PM. 
-  - **Duration**: 7 weeks, from 1.20.26 to 3.3.26 (skipping 2.17.26)
+  - **Duration**: 7 weeks, from 1.20.26 to 3.10.26 (skipping 2.17.26)
   - **Location**: Lower Manhattan (in-person only)
   - **Cost**: $120 (scholarship), $210 (standard), $300 (supporter). Send me an email if none of these work.
 
@@ -48,13 +48,13 @@ Exact topics and order subject to change.
 
 | Class | Topic | Details and "Standard Model" | Alternatives
 | -------- | ------- | ------- | ------- | 
-| Week 1 | Setup and tooling (GitHub/Git, Julia, VSCode). Math refresher (probability/expectations and maximization). | N/A | Sparse max. 
-| Week 2 | Bayes, Nash, and beyond | Bayesian rationality and implications. Writing a game formally and defining Nash equilibrium. | Cognitive distortions and "flaws" in updating. Trembles and "near-Nash" behavior.
-| Week 3 | Consumption and savings | The Neoclassical growth model. | Introducing info constraints, addictive goods, etc. 
-| Week 4 | Herds and learning from the crowd | Social learning with perfect recall and Bayesian agents. | Versions with bounded memory, deviant agents (overconfident, conformist, malicious), etc. 
-| Week 5 | Optimal stopping | McCall search. | Recency bias and imperfect recall. 
-| Week 6 | Persuasion, communication, and lying | Defining lying mathematically. Bayesian persuasion and cheap talk. | **My own research ("frequentist persuasion.'')** Hard limits on info processing and precision of communication. 
-| Week 7 | Special topics (TBD, based on class preferences.) | Racial discrimination. International development and growth. | 
+| Week 1 (1.20.26) | Setup and tooling (GitHub/Git, Julia, VSCode). Math refresher (probability/expectations and maximization). | N/A | Sparse max. 
+| Week 2 (1.27.26) | Bayes, Nash, and beyond | Bayesian rationality and implications. Writing a game formally and defining Nash equilibrium. | Cognitive distortions and "flaws" in updating. Trembles and "near-Nash" behavior.
+| Week 3 (2.3.26) | Consumption and savings | The Neoclassical growth model. | Introducing info constraints, addictive goods, etc. 
+| Week 4 (2.10.26)| Herds and learning from the crowd | Social learning with perfect recall and Bayesian agents. | Versions with bounded memory, deviant agents (overconfident, conformist, malicious), etc. 
+| Week 5 **(2.24.26)** | Optimal stopping | McCall search. | Recency bias and imperfect recall. 
+| Week 6 (3.3.26) | Persuasion, communication, and lying | Defining lying mathematically. Bayesian persuasion and cheap talk. | **My own research ("frequentist persuasion.'')** Hard limits on info processing and precision of communication. 
+| Week 7 (3.10.26) | Special topics (TBD, based on class preferences.) | Racial discrimination. International development and growth. | 
 
 
 [^1]: A bit on [what this means](https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/), and an [example](https://github.com/QuantEcon/notebook-gallery/blob/main/ipynb/john_stachurski-coase.ipynb).

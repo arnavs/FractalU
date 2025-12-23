@@ -66,7 +66,7 @@ Exact topics and order subject to change.
     - How should a bounded agent (info constraints, addiction, etc.) do it?
   * Week 4: Herds and the Crowd
     - How should a Bayesian agent learn from actions of past agents? 
-    - How do biased agents (overconfident, conformist, malicious, etc.) change outcomes
+    - How do biased agents (overconfident, conformist, malicious, etc.) change outcomes?
   * Week 5: Optimal Stopping
     - How should a homo economicus decide when to accept a job (or spouse, etc.)?
     - How should an actual person do so?

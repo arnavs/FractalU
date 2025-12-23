@@ -17,6 +17,7 @@ Over 7 weeks, we're going to use modern machinery (math and code) to explore beh
   * Whether or not to accept a job (or spouse), or wait for a better one tomorrow. 
   * How much lying they can get away with before reputation effects kick in and punish them. 
   * If it's best to follow the crowd, or act on their own beliefs. 
+  * Whether they're comfortable living in a given neighborhood, or if they should move.
 
 "Behavioral" means that people are not the [precisely rational creatures](https://en.wikipedia.org/wiki/Homo_economicus) required by neoclassical theory. They might [make mistakes](https://en.wikipedia.org/wiki/Trembling_hand_perfect_equilibrium) when carrying out their plans. They might not be perfect Bayesians (we'll discuss what that means), or they might face hard limits on the amount of information they can process. 
 

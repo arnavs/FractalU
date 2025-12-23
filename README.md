@@ -51,7 +51,7 @@ Exact topics and order subject to change.
 | -------- | ------- | ------- | ------- | 
 | Week 1 (1.20.26) | Setup and tooling. Intro to Julia language. Math refresher. | N/A | Sparse max. 
 | Week 2 (1.27.26) | Bayes, Nash, and beyond | Defining rationality and implications of Bayesian rationality. Writing a game formally and defining Nash equilibrium. | Cognitive distortions and "flaws" in updating. Trembles and "near-Nash" behavior.
-| Week 3 (2.3.26) | Consumption and savings | The Neoclassical growth model. | Introducing info constraints, addictive goods, etc. 
+| Week 3 (2.3.26) | Consumption and savings | [Neoclassical growth model](https://julia.quantecon.org/dynamic_programming/optgrowth.html). | Introducing info constraints, addictive goods, etc. 
 | Week 4 (2.10.26)| Herds and learning from the crowd | Social learning with perfect recall and Bayesian agents. | Versions with bounded memory, deviant agents (overconfident, conformist, malicious), etc. 
 | Week 5 **(2.24.26)** | Optimal stopping | [McCall search model](https://julia.quantecon.org/dynamic_programming/mccall_model.html). | Recency bias and imperfect recall. 
 | Week 6 (3.3.26) | Persuasion, communication, and lying | Defining lying mathematically. Bayesian persuasion and cheap talk. | **My own research ("frequentist persuasion.'')** Hard limits on info processing and precision of communication. 

@@ -1,9 +1,10 @@
 # FractalU: Computational and Behavioral Economics
 
-I'm teaching a class on _computational, behavioral economics_. Details are below; signup link is [here]()
+[I'm](https://arnavsood.com) teaching a class on _computational, behavioral economics_. Details are below; signup link is [here]()
 
 tl/dr
   - **Class**: Learn behavioral economics using math and code. Model and code up an economic/social situation you're interested in. 
+  - **Instructor**: [Arnav Sood](https://arnavsood.com). I'm a 5th year Econ PhD student at Carnegie Mellon and former open-source econ developer. My focus is on learning and communication involving "behavioral" (not strictly rational) economic agents.
   - **Time**: Tuesdays 7-9PM. 
   - **Duration**: 7 weeks, from 1.20.26 to 3.10.26 (skipping 2.17.26)
   - **Location**: Lower Manhattan (in-person only)

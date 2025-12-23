@@ -27,7 +27,7 @@ But we can't see clearly what that behavior is by sticking to the "literary" eco
 
 ### Requirements
 
-You should have some basic familiarity with coding. Experience with math/stats and git/commandline is a plus, but not a requirement. **No prior economics experience is required**. 
+You should have **some familiarity** with coding (but you don't need to work as a SWE or have majored in CS, for example.) Experience with math/stats and git/commandline is a plus, but not a requirement. **No prior economics experience is required**. 
 
 You should be willing to learn and work hard. The course is fast-paced, and you'll get out what you put in. 
 

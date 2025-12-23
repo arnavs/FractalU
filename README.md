@@ -46,6 +46,17 @@ After the class is over, anyone who wants to can remove their material or interi
 
 Exact topics and order subject to change.
 
+| Class | Topic | "Standard Model" | Alternatives
+| -------- | ------- | ------- | ------- | 
+| Week 1 | Setup and tooling (GitHub/Git, Julia, VSCode). Math refresher. | N/A | N/A 
+| Week 2 | $80 |
+| Week 3 | $420 |
+| Week 4 | $420 |
+| Week 5 | $420 |
+| Week 6 | $420 |
+| Week 7 | $420 |
+
+<!-- 
   * Week 1: Setup and Tooling
     - GitHub and Git
     - The Julia language 
@@ -77,6 +88,6 @@ Exact topics and order subject to change.
   * Week 7: Special Topics
     - Racial discrimination
     - International development and growth 
-    - **TBD: based on class interest**
+    - **TBD: based on class interest** -->
 
 [^1]: A bit on [what this means](https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/), and an [example](https://github.com/QuantEcon/notebook-gallery/blob/main/ipynb/john_stachurski-coase.ipynb).

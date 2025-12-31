@@ -52,11 +52,11 @@ Exact topics and order subject to change. **Don't worry if stuff in links seems 
 | Class | Topic | Details and "Standard Model" | Alternatives
 | -------- | ------- | ------- | ------- | 
 | Week 1 (1.20.26) | Setup and tooling. Intro to Julia language. Math refresher. | N/A | N/A
-| Week 2 (1.27.26) | Bayes, Nash, and beyond | What is rationality? Implications of Bayesian rationality. Writing a game formally and defining Nash equilibrium. | Cognitive distortions. Sparse Max. Trembles.
-| Week 3 (2.3.26) | Consumption and savings | [Neoclassical consumption-savings model](https://julia.quantecon.org/dynamic_programming/optgrowth.html). | Introducing info constraints, addictive goods, etc. 
+| Week 2 (1.27.26) | Bayes, Nash, and beyond | What is rationality? Implications of Bayesian rationality. Writing a game formally and defining Nash equilibrium. | Cognitive distortions. Trembles.
+| Week 3 (2.3.26) | Dynamical systems and racial discrimination | [Schelling Segregation Model](https://julia.quantecon.org/multi_agent_models/schelling.html). | Sparse Max. 
 | Week 4 (2.10.26)| Herds and learning from the crowd | Social learning with perfect recall and Bayesian agents. | Versions with bounded memory, deviant agents (overconfident, conformist, malicious), etc. 
 | Week 5 **(2.24.26)** | Optimal stopping | [McCall search model](https://julia.quantecon.org/dynamic_programming/mccall_model.html). | Recency bias and imperfect recall. 
 | Week 6 (3.3.26) | Persuasion, communication, and lying | Defining lying mathematically. Bayesian persuasion and cheap talk. | **My own research ("frequentist persuasion.'')** Hard limits on info processing and precision of communication. 
-| Week 7 (3.10.26) | Special topics (TBD, based on class preferences.) | Racial discrimination. International development and growth. | **Project demos! People can share their projects and let your classmates interact with them.**
+| Week 7 (3.10.26) | Special topics (TBD, based on class preferences.) | International development and growth. | **Project demos! People can share their projects and let your classmates interact with them.**
 
 [^1]: A bit on [what this means](https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/), and an [example](https://github.com/QuantEcon/notebook-gallery/blob/main/ipynb/john_stachurski-coase.ipynb).

@@ -7,7 +7,7 @@ tl/dr
   - **Instructor**: [Arnav Sood](https://arnavsood.com). I'm a 5th year Econ PhD student at [Carnegie Mellon](https://www.cmu.edu) and former open-source econ developer at [QuantEcon](https://quantecon.org). My thesis is on learning and deception involving "behavioral" (not strictly rational) economic agents.
   - **Time**: Tuesdays 6:30-8:30PM. 
   - **Duration**: 7 weeks, from 1.20.26 to 3.10.26 (skipping 2.17.26)
-  - **Location**: 99 Hudson St., Jersey City (right across from WTC on PATH)
+  - **Location**: 99 Hudson St., Jersey City (right across from WTC on PATH), **or remote, if you need**
     - you can use the building amenities (coworking space, gym, pool, etc.) as long as I'm around
   - **Cost**: $120 (scholarship), $210 (standard), $300 (supporter). Send me an email at [`arnavs@alumni.cmu.edu`](mailto:arnavs@alumni.cmu.edu) if none of these work.
 

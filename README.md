@@ -20,7 +20,7 @@ Over 7 weeks, we're going to use modern machinery (math and code) to explore beh
   * If it's best to follow the crowd, or act on their own beliefs. 
   * Whether they're comfortable living in a given neighborhood, or if they should move.
 
-"Behavioral" means that people are not the [precisely rational creatures](https://en.wikipedia.org/wiki/Homo_economicus) required by neoclassical theory. They might [make mistakes](https://en.wikipedia.org/wiki/Trembling_hand_perfect_equilibrium) when carrying out their plans. They might not be perfect Bayesians (we'll discuss what that means), or they might face hard limits on the amount of information they can process. 
+"Behavioral" means that people are not the [precisely rational creatures](https://en.wikipedia.org/wiki/Homo_economicus) required by neoclassical theory. They might make mistakes when carrying out their plans. They might process information imperfectly (we'll discuss what that means), or they might face hard limits on the amount of information they can handle. 
 
 An increasingly large part of modern economics is realizing that these "behavioral frictions" aren't just small annoyances that we can model away. In many cases they lead to startlingly different behavior. 
 
@@ -28,7 +28,7 @@ But we can't see clearly what that behavior is by sticking to the "literary" eco
 
 ### Requirements
 
-You should have **some familiarity** with coding (but you don't need to work as a SWE or have majored in CS, for example.) Experience with math/stats and git/commandline is a plus, but not a requirement. **No prior economics experience is required**. 
+You should have **some familiarity** with coding (but you don't need to work as a software engineer or have majored in CS, for example.) Experience with math/stats and git/commandline is a plus, but not a requirement. **No prior economics experience is required**. 
 
 You should be willing to learn and work hard. The course is fast-paced, and you'll get out what you put in. 
 
@@ -50,13 +50,12 @@ Exact topics and order subject to change. **Don't worry if stuff in links seems 
 
 | Class | Topic | Details and "Standard Model" | Alternatives
 | -------- | ------- | ------- | ------- | 
-| Week 1 (1.20.26) | Setup and tooling. Intro to Julia language. Math refresher. | N/A | Sparse max. 
-| Week 2 (1.27.26) | Bayes, Nash, and beyond | Defining rationality and implications of Bayesian rationality. Writing a game formally and defining Nash equilibrium. | Cognitive distortions and "flaws" in updating. Trembles and "near-Nash" behavior.
+| Week 1 (1.20.26) | Setup and tooling. Intro to Julia language. Math refresher. | N/A | 
+| Week 2 (1.27.26) | Bayes, Nash, and beyond | What is rationality? Implications of Bayesian rationality. Writing a game formally and defining Nash equilibrium. | Cognitive distortions. Sparse Max. Trembles.
 | Week 3 (2.3.26) | Consumption and savings | [Neoclassical growth model](https://julia.quantecon.org/dynamic_programming/optgrowth.html). | Introducing info constraints, addictive goods, etc. 
 | Week 4 (2.10.26)| Herds and learning from the crowd | Social learning with perfect recall and Bayesian agents. | Versions with bounded memory, deviant agents (overconfident, conformist, malicious), etc. 
 | Week 5 **(2.24.26)** | Optimal stopping | [McCall search model](https://julia.quantecon.org/dynamic_programming/mccall_model.html). | Recency bias and imperfect recall. 
 | Week 6 (3.3.26) | Persuasion, communication, and lying | Defining lying mathematically. Bayesian persuasion and cheap talk. | **My own research ("frequentist persuasion.'')** Hard limits on info processing and precision of communication. 
 | Week 7 (3.10.26) | Special topics (TBD, based on class preferences.) | Racial discrimination. International development and growth. | 
-
 
 [^1]: A bit on [what this means](https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/), and an [example](https://github.com/QuantEcon/notebook-gallery/blob/main/ipynb/john_stachurski-coase.ipynb).

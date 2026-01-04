@@ -5,7 +5,7 @@ I'm teaching a class on _computational, behavioral economics_. Details are below
 My bio: [Arnav Sood](https://arnavsood.com). I'm a 5th year Econ PhD student at [Carnegie Mellon](https://www.cmu.edu) and former open-source econ developer at [QuantEcon](https://quantecon.org). My thesis is on learning and deception involving "behavioral" (not strictly rational) economic agents.
 
 tl/dr
-  - **Time**: Tuesdays 6:30-8:30PM. 
+  - **Time**: Sundays 2:00-4:00PM. 
   - **Class**: Learn behavioral economics using math and code. Model and code up an economic/social situation you're interested in. 
   - **Duration**: 6 weeks, from 1.18.26 to 3.2.26 (skipping 2.15.26)
   - **Location**: 99 Hudson St., Jersey City (right across from WTC on PATH), **or remote, if you need**

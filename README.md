@@ -52,10 +52,10 @@ Exact topics and order subject to change. **Don't worry if stuff in links seems 
 
 | Class | Topic | Details and "Standard Model" | Alternatives
 | -------- | ------- | ------- | ------- | 
-| Week 1 (1.12.26) | Setup and tooling. Intro to Julia language. Math refresher. | N/A | N/A
-| Week 2 (1.26.26) | Bayes, Nash, and beyond | What is rationality? Implications of Bayesian rationality. Writing a game formally and defining Nash equilibrium. | Cognitive distortions. Trembles.
-| Week 3 (2.2.26) | Dynamical systems and racial discrimination | [Schelling Segregation Model](https://julia.quantecon.org/multi_agent_models/schelling.html). | Sparse Max. 
-| Week 4 (2.9.26)| Herds and learning from the crowd | Social learning with perfect recall and Bayesian agents. | Versions with bounded memory, deviant agents (overconfident, conformist, malicious), etc. 
+| Week 1 (1.18.26) | Setup and tooling. Intro to Julia language. Math refresher. | N/A | N/A
+| Week 2 (1.25.26) | Bayes, Nash, and beyond | What is rationality? Implications of Bayesian rationality. Writing a game formally and defining Nash equilibrium. | Cognitive distortions. Trembles.
+| Week 3 (2.1.26) | Dynamical systems and racial discrimination | [Schelling Segregation Model](https://julia.quantecon.org/multi_agent_models/schelling.html). | Sparse Max. 
+| Week 4 (2.8.26)| Herds and learning from the crowd | Social learning with perfect recall and Bayesian agents. | Versions with bounded memory, deviant agents (overconfident, conformist, malicious), etc. 
 | Week 5 (2.23.26) | Optimal stopping | [McCall search model](https://julia.quantecon.org/dynamic_programming/mccall_model.html). | Recency bias and imperfect recall. 
 | Week 6 (3.2.26) | Persuasion, communication, and lying | Defining lying mathematically. Bayesian persuasion and cheap talk. | **My own research ("frequentist persuasion.'')** Hard limits on info processing and precision of communication. 
 | Date TBD | N/A | N/A | **Project demos! People can share their projects and let your classmates interact with them.**

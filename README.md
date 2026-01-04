@@ -7,14 +7,14 @@ My bio: [Arnav Sood](https://arnavsood.com). I'm a 5th year Econ PhD student at 
 tl/dr
   - **Time**: Tuesdays 6:30-8:30PM. 
   - **Class**: Learn behavioral economics using math and code. Model and code up an economic/social situation you're interested in. 
-  - **Duration**: 7 weeks, from 1.20.26 to 3.10.26 (skipping 2.17.26)
+  - **Duration**: 6 weeks, from 1.12.26 to 3.9.26 (skipping MLK and 2.16.26)
   - **Location**: 99 Hudson St., Jersey City (right across from WTC on PATH), **or remote, if you need**
     - you can use the building amenities (coworking space, gym, pool, etc.) as long as I'm around
   - **Cost**: $120 (scholarship), $210 (standard), $300 (supporter). Send me an email at [`arnavs@alumni.cmu.edu`](mailto:arnavs@alumni.cmu.edu) if none of these work.
 
 ### Summary 
 
-Over 7 weeks, we're going to use modern machinery (math and code) to explore behavioral economics. By the end, you'll have written a small interactive paper[^1] where you apply these tools to a problem you're interested in. 
+Over 6 weeks, we're going to use modern machinery (math and code) to explore behavioral economics. By the end, you'll have written a small interactive paper[^1] where you apply these tools to a problem you're interested in. 
 
 "Economics" means that people are trying to maximize something, subject to some constraint. It may sound rigid (and we'll explore the limits), but this framework is already very permissive. People could be deciding: 
   * Whether or not to accept a job (or spouse), or wait for a better one tomorrow. 

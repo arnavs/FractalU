@@ -7,7 +7,7 @@ My bio: [Arnav Sood](https://arnavsood.com). I'm a 5th year Econ PhD student at 
 tl/dr
   - **Time**: Tuesdays 6:30-8:30PM. 
   - **Class**: Learn behavioral economics using math and code. Model and code up an economic/social situation you're interested in. 
-  - **Duration**: 6 weeks, from 1.12.26 to 3.9.26 (skipping MLK and 2.16.26)
+  - **Duration**: 6 weeks, from 1.18.26 to 3.2.26 (skipping 2.15.26)
   - **Location**: 99 Hudson St., Jersey City (right across from WTC on PATH), **or remote, if you need**
     - you can use the building amenities (coworking space, gym, pool, etc.) as long as I'm around
   - **Cost**: $120 (scholarship), $210 (standard), $300 (supporter). Send me an email at [`arnavs@alumni.cmu.edu`](mailto:arnavs@alumni.cmu.edu) if none of these work.

@@ -1,11 +1,12 @@
 # FractalU: Computational and Behavioral Economics
 
-I'm teaching a class on _computational, behavioral economics_. Details are below; signup link is [here](https://forms.gle/F3YGmLwnjdBgawUx6)
+I'm teaching a class on _computational, behavioral economics_. Details are below; signup link is [here](https://forms.gle/F3YGmLwnjdBgawUx6).
+
+My bio: [Arnav Sood](https://arnavsood.com). I'm a 5th year Econ PhD student at [Carnegie Mellon](https://www.cmu.edu) and former open-source econ developer at [QuantEcon](https://quantecon.org). My thesis is on learning and deception involving "behavioral" (not strictly rational) economic agents.
 
 tl/dr
-  - **Class**: Learn behavioral economics using math and code. Model and code up an economic/social situation you're interested in. 
-  - **Instructor**: [Arnav Sood](https://arnavsood.com). I'm a 5th year Econ PhD student at [Carnegie Mellon](https://www.cmu.edu) and former open-source econ developer at [QuantEcon](https://quantecon.org). My thesis is on learning and deception involving "behavioral" (not strictly rational) economic agents.
   - **Time**: Tuesdays 6:30-8:30PM. 
+  - **Class**: Learn behavioral economics using math and code. Model and code up an economic/social situation you're interested in. 
   - **Duration**: 7 weeks, from 1.20.26 to 3.10.26 (skipping 2.17.26)
   - **Location**: 99 Hudson St., Jersey City (right across from WTC on PATH), **or remote, if you need**
     - you can use the building amenities (coworking space, gym, pool, etc.) as long as I'm around
@@ -51,12 +52,12 @@ Exact topics and order subject to change. **Don't worry if stuff in links seems 
 
 | Class | Topic | Details and "Standard Model" | Alternatives
 | -------- | ------- | ------- | ------- | 
-| Week 1 (1.20.26) | Setup and tooling. Intro to Julia language. Math refresher. | N/A | N/A
-| Week 2 (1.27.26) | Bayes, Nash, and beyond | What is rationality? Implications of Bayesian rationality. Writing a game formally and defining Nash equilibrium. | Cognitive distortions. Trembles.
-| Week 3 (2.3.26) | Dynamical systems and racial discrimination | [Schelling Segregation Model](https://julia.quantecon.org/multi_agent_models/schelling.html). | Sparse Max. 
-| Week 4 (2.10.26)| Herds and learning from the crowd | Social learning with perfect recall and Bayesian agents. | Versions with bounded memory, deviant agents (overconfident, conformist, malicious), etc. 
-| Week 5 **(2.24.26)** | Optimal stopping | [McCall search model](https://julia.quantecon.org/dynamic_programming/mccall_model.html). | Recency bias and imperfect recall. 
-| Week 6 (3.3.26) | Persuasion, communication, and lying | Defining lying mathematically. Bayesian persuasion and cheap talk. | **My own research ("frequentist persuasion.'')** Hard limits on info processing and precision of communication. 
-| Week 7 (3.10.26) | Special topics (TBD, based on class preferences.) | International development and growth. | **Project demos! People can share their projects and let your classmates interact with them.**
+| Week 1 (1.12.26) | Setup and tooling. Intro to Julia language. Math refresher. | N/A | N/A
+| Week 2 (1.26.26) | Bayes, Nash, and beyond | What is rationality? Implications of Bayesian rationality. Writing a game formally and defining Nash equilibrium. | Cognitive distortions. Trembles.
+| Week 3 (2.2.26) | Dynamical systems and racial discrimination | [Schelling Segregation Model](https://julia.quantecon.org/multi_agent_models/schelling.html). | Sparse Max. 
+| Week 4 (2.9.26)| Herds and learning from the crowd | Social learning with perfect recall and Bayesian agents. | Versions with bounded memory, deviant agents (overconfident, conformist, malicious), etc. 
+| Week 5 (2.23.26) | Optimal stopping | [McCall search model](https://julia.quantecon.org/dynamic_programming/mccall_model.html). | Recency bias and imperfect recall. 
+| Week 6 (3.2.26) | Persuasion, communication, and lying | Defining lying mathematically. Bayesian persuasion and cheap talk. | **My own research ("frequentist persuasion.'')** Hard limits on info processing and precision of communication. 
+| Date TBD | N/A | N/A | **Project demos! People can share their projects and let your classmates interact with them.**
 
 [^1]: A bit on [what this means](https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/), and an [example](https://github.com/QuantEcon/notebook-gallery/blob/main/ipynb/john_stachurski-coase.ipynb).
